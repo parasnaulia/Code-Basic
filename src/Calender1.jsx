@@ -27,7 +27,7 @@ const DatePickerComponent = () => {
       />
       <p style={styles.dateText}> Date: {selectedDate}</p>
     </div>
-    <TodoList/>
+  
     </>
   );
 };
